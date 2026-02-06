@@ -44,7 +44,7 @@ Pressing the center button triggers the **Mechanical Rotation**. All rings rotat
 *   **Icons:** Lucide React
 *   **Backend / Realtime:** Firebase (Firestore & Auth)
 *   **Audio:** Web Audio API (No external assets, purely synthesized)
-
+ 
 ##  Getting Started
 
 Follow these instructions to set up the project locally on your machine.
